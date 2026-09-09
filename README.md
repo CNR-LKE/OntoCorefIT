@@ -17,8 +17,6 @@ The dataset originates from **OntoNotes** and was produced through a methodology
 - addressing language-specific linguistic phenomena;
 - accounting for the characteristics of an inflectional and morphologically rich language such as Italian.
 
-The methodology underlying the construction of the resource is described in detail in **Minutolo et al. (2022)**.
-
 The resulting dataset was also used to train and evaluate neural coreference resolution models. In particular, **Guarasci et al. (2021)** investigated an end-to-end neural architecture integrating the ELECTRA language model and trained on OntoCorefIT, providing a baseline for further research on neural coreference resolution in Italian.
 
 ## Research Context
