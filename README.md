@@ -10,7 +10,7 @@ Coreference resolution aims to identify expressions in a text that refer to the 
 
 OntoCorefIT was developed to help address the limited availability of resources for **Italian coreference resolution**.
 
-The dataset originates from **OntoNotes** and was produced through a methodology designed to translate and refine English utterances while:
+The dataset originates from **OntoNotes**[^1] and was produced through a methodology designed to translate and refine English utterances while:
 
 - preserving coreference relations and mentions;
 - generating utterances consistent with Italian grammar;
@@ -73,3 +73,5 @@ Thank you for your interest in **OntoCorefIT**.
 We sincerely appreciate researchers, developers, students, and practitioners who take the time to evaluate and use this resource. We hope that making OntoCorefIT available to the community can support further research on Italian coreference resolution and encourage the development of NLP resources and methods for languages other than English.
 
 If OntoCorefIT contributes to your work, we would be glad to learn about your experience. Please feel free to get in touch with the **LKE research group** and, whenever possible, cite the publications associated with the dataset.
+
+[^1]: E. Hovy, M. Marcus, M. Palmer, L. Ramshaw, and R. Weischedel, *OntoNotes: The 90% Solution*, Proceedings of the Human Language Technology Conference of the NAACL, Companion Volume: Short Papers, pp. 57–60, 2006.
