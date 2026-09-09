@@ -41,7 +41,7 @@ When possible, please also **cite the scientific publications associated with On
 
 ## Citation
 
-If you use OntoCorefIT, please consider citing the paper describing the methodology used for its construction:
+If you use OntoCorefIT, please consider citing the following papers:
 
 ```bibtex
 @article{minutolo2022multi,
@@ -52,11 +52,7 @@ If you use OntoCorefIT, please consider citing the paper describing the methodol
   year={2022},
   publisher={Springer}
 }
-```
 
-For applications of OntoCorefIT to neural coreference resolution in Italian, please also consider citing:
-
-```bibtex
 @article{guarasci2021electra,
   title={ELECTRA for Neural Coreference Resolution in Italian},
   author={Guarasci, Raffaele and Minutolo, Aniello and Damiano, Emanuele and De Pietro, Giuseppe and Fujita, Hamido and Esposito, Massimo},
@@ -68,19 +64,6 @@ For applications of OntoCorefIT to neural coreference resolution in Italian, ple
 }
 ```
 
-### Reference Publications
-
-**A. Minutolo, R. Guarasci, E. Damiano, G. De Pietro, H. Fujita, and M. Esposito**,  
-*A multi-level methodology for the automated translation of a coreference resolution dataset: an application to the Italian language*,  
-**Neural Computing and Applications**, Springer, 2022.
-
-The paper presents the methodology used to construct an Italian coreference resolution corpus starting from OntoNotes. The proposed approach translates and refines English utterances while preserving mentions and coreference information and addressing linguistic phenomena specific to Italian. The resulting resource is evaluated both quantitatively and qualitatively in terms of readability, grammaticality, and acceptability, and is further assessed through experiments with neural coreference resolution models.
-
-**R. Guarasci, A. Minutolo, E. Damiano, G. De Pietro, H. Fujita, and M. Esposito**,  
-*ELECTRA for Neural Coreference Resolution in Italian*,  
-**IEEE Access**, vol. 9, pp. 115643–115654, 2021.
-
-The paper presents a neural end-to-end coreference resolution architecture for Italian integrating ELECTRA and trained on OntoCorefIT. The study compares ELECTRA with BERT and analyzes the influence of different grammatical categories on coreference resolution performance in Italian, providing a baseline for subsequent research in this area.
 
 ## About LKE
 
