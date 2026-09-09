@@ -35,13 +35,9 @@ We are grateful to everyone who visits this repository to **explore, evaluate, o
 
 If you use the dataset in your research, experiments, teaching activities, or other projects, we would be very pleased to hear about your experience. Feedback from the community can help us better understand how OntoCorefIT is being used and can contribute to future research and development.
 
-We therefore kindly invite you to **contact the Language and Knowledge Engineering (LKE) research group at ICAR-CNR** to share your experience, results, observations, or possible collaborations.
+We therefore kindly invite you to **contact the LKE research group at ICAR-CNR** to share your experience, results, observations, or possible collaborations.
 
 When possible, please also **cite the scientific publications associated with OntoCorefIT**, listed below.
-
-## Citation
-
-If you use OntoCorefIT, please consider citing the following papers:
 
 ```bibtex
 @article{minutolo2022multi,
@@ -64,10 +60,7 @@ If you use OntoCorefIT, please consider citing the following papers:
 }
 ```
 
-
 ## About LKE
-
-OntoCorefIT was developed by the **Language and Knowledge Engineering (LKE)** research group at **ICAR-CNR — Institute for High Performance Computing and Networking of the National Research Council of Italy**.
 
 The LKE group conducts research in Natural Language Processing, language and knowledge technologies, and related areas, developing methodologies and intelligent systems for the representation, extraction, processing, and exploitation of linguistic and semantic information.
 
